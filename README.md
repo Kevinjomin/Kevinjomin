@@ -54,5 +54,4 @@ I am a Game Application and Technology student at Binus University. I am passion
 
 ## 💬 Contacts
 - 📞 WhatsApp &nbsp; : 081316447620
-<br>
 - ✉️ Email &emsp;&ensp;&emsp; : kevin.jonathan.mintaryo@gmail.com
