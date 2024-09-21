@@ -32,7 +32,7 @@ I am a Game Application and Technology student at Binus University. I am passion
   <thead>
     <tr>
       <th width="50%"><a href="https://juli93.itch.io/polucity">🏢 PoluCity</a></th>
-      <th width="50%"><a href="">🔢 Mathventures</a></th>
+      <th width="50%"><a href="https://kevinjomin.itch.io/mathventures">🔢 Mathventures</a></th>
     </tr>
   </thead>
   <tbody>
@@ -46,7 +46,7 @@ I am a Game Application and Technology student at Binus University. I am passion
     </tr>
     <tr>
       <td><a href="https://juli93.itch.io/polucity">Itch Page</td>
-      <td><a href="">Itch Page (in progress)</td>
+      <td><a href="https://kevinjomin.itch.io/mathventures">Itch Page</td>
     </tr>
   </tbody>
 </table>
