@@ -1,5 +1,5 @@
 ![image](../src/Ecosort/Ecosort_img.png)
-## About the game
+## 🎮 About the game
 
 Warning! The earth is in danger with all this trash around us! But fear not, to save the planet, we trust you to become our new eco-sorters!
 
@@ -17,12 +17,27 @@ By sorting various trash you'll meet familiar trash and learn where to sort and 
 
 Ecosort provides a Fun and exciting experience through Easy and unique gameplay mechanics! Grab and Pack the trash into boxes to ship them to the nearest recycling center! Play through different levels ranging from easy to challenging difficulty!
 
-## What I worked on
+## ⬇️ Download game
+Itch.io : https://bgdc.itch.io/ecosort
+
+## 👤 Developer & contributions
+- Swasa Raditya	- Team Manager
+- Kevin Jonathan M.	- Programmer
+- Sebastian Putra Cahyadi - Programmer
+- M. Raphael Caesar P. - Designer
+- Dave Edmund Daniel - 2D Artist
+- Gede Bramanta P.W. - 2D Artist
+- Ariq Ghifari - 3D Artist
+- Joshua Mackenzie C. - Composer
+- Mary Regina Ang - Publication
+- Paul Sowlawn Kuemba - Publication
+
+## 💼 What I worked on
 In this project, I mainly worked on player controls and interaction. I developed a WASD movement an created a system where interactable objects are highlighted when in range to provide visual feedback to the player. Additionally, I also worked on the conveyor mechanics by implementing rigidbody for object movement.
 
 I also coordinated with the team's artist in integrating the user interface, to ensure that the ingame design and functionality aligned with the artist's vision.
 
-## Game controls
+## 🕹️ Game controls
 
 | Key Binding       | Function          |
 | ----------------- | ----------------- |
@@ -31,7 +46,7 @@ I also coordinated with the team's artist in integrating the user interface, to 
 | Q                 | Drop trash        |
 | Esc               | Pause menu        |
 
-## Scripts
+## 📜 Scripts
 
 | Script       | Function                                                  |
 | ------------------- | ------------------------------------------------------------ |
@@ -39,3 +54,4 @@ I also coordinated with the team's artist in integrating the user interface, to 
 | `Pickables.cs`  | Determines the type of trash and manages object parenting when picked up by player. |
 | `TrashCanObject.cs`  | Determines the accepted trash type and manages the object status (filled or not). |
 | `ConveyorBelt.cs`  | Moves object along the conveyor using rigidbody. |
+| `etc`  | |

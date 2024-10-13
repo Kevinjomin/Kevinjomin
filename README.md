@@ -37,16 +37,16 @@ I am a Game Application and Technology student at Binus University. I am passion
   </thead>
   <tbody>
     <tr>
-      <td><img src="src\Polucity\Polucity_gif.gif"/></td>
       <td><img src="src\Mathventures\Mathventures_gif.gif"/></td>
+      <td><img src="src\Polucity\Polucity_gif.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">PoluCity is a city-building game where you develop a city while keeping it sustainable. You are tasked to help your city grow in population and income within a certain time limit. As you grow your city, you must also keep an eye on the air polution level.</td>
       <td valign="text-top">Mathventures is a 2D turn-based game with roguelike element. The player engages in a combat system where they answer math-related quizzes in a time limit to deal more damage. Players can also obtain more skill from chests or buying stat increases using coins. <div></div></td>
+      <td valign="text-top">PoluCity is a city-building game where you develop a city while keeping it sustainable. You are tasked to help your city grow in population and income within a certain time limit. As you grow your city, you must also keep an eye on the air polution level.</td>
     </tr>
     <tr>
-      <td><a href="ProjectDetails\Polucity_README.md">Details</td>
       <td><a href="ProjectDetails\Mathventures_README.md">Details</td>
+      <td><a href="ProjectDetails\Polucity_README.md">Details</td>
     </tr>
   </tbody>
 </table>
