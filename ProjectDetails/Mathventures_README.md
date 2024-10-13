@@ -19,7 +19,7 @@ Use the coins obtained from defeating enemies to upgrade your character's base s
 Itch.io : https://kevinjomin.itch.io/mathventures
 
 ## 👤 Developer & contributions
-- Dennis Hubert Suwardi - Project Manager
+- Dennis Hubert Suwardi - Team Manager
 - Kevin Jonathan Mintaryo - Game Programmer
 - Calvin Santosa - Game Artist
 

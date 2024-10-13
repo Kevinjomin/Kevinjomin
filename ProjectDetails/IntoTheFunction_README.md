@@ -11,15 +11,15 @@ Each decision and card played alters the path, requiring a blend of logic and st
 Itch.io : https://bgdc.itch.io/into-the-function
 
 ## 👤 Developer & contributions
-- M. Raphael Caesar Ponda'ag - Game Designer
 - Darwin Donovan Darmadi - Team Manager & Game Artist
-- Andrew Julian Hanjaya - Game Artist
-- Alexander Nathanael Lubis - Game Artist
+- M. Raphael Caesar Ponda'ag - Game Designer
 - Varick Vanedick - Game Programmer
 - Kevin Jonathan Mintaryo - Game Programmer
 - Darryl Matthew Tanadi - Game Programmer
+- Andrew Julian Hanjaya - Game Artist
+- Alexander Nathanael Lubis - Game Artist
 - Joshua Mackenzie Chandra - Sound Engineer
-- Julian Putra Utama - Publisher
+- Julian Putra Utama - Publication
 
 ## 💼 What I worked on
 In this project I mostly worked on the database UI system. The database contains a list of all cards in the game and tutorials. I made sure the database is generated automatically by reading data from the project folders. The content of the tutorials are also editable in the inspector window and stored in a list for dynamic UI content.

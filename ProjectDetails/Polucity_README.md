@@ -7,7 +7,7 @@ PoluCity is a city-building game where you are tasked to construct and manage a 
 Itch.io : https://juli93.itch.io/polucity
 
 ## 👤 Developer & contributions
-- Julian Putra Utama - Project Manager & Game Artist
+- Julian Putra Utama - Team Manager & Game Artist
 - Kevin Jonathan Mintaryo - Game Programmer
 - Ario Pratono - Game Programmer
 

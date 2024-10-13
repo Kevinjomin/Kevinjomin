@@ -22,13 +22,13 @@ Itch.io : https://bgdc.itch.io/ecosort
 
 ## 👤 Developer & contributions
 - Swasa Raditya	- Team Manager
-- Kevin Jonathan M.	- Programmer
-- Sebastian Putra Cahyadi - Programmer
-- M. Raphael Caesar P. - Designer
+- M. Raphael Caesar P. - Game Designer
+- Kevin Jonathan M.	- Game Programmer
+- Sebastian Putra Cahyadi - Game Programmer
 - Dave Edmund Daniel - 2D Artist
 - Gede Bramanta P.W. - 2D Artist
 - Ariq Ghifari - 3D Artist
-- Joshua Mackenzie C. - Composer
+- Joshua Mackenzie C. - Sound Engineer
 - Mary Regina Ang - Publication
 - Paul Sowlawn Kuemba - Publication
 
