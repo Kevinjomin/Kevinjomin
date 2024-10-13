@@ -1,4 +1,4 @@
-![image](..\src\Polucity\Polucity_gif.gif)
+![image](../src/Polucity/Polucity_gif.gif)
 ## 🎮 About the game
 
 PoluCity is a city-building game where you are tasked to construct and manage a sustainable city. As you develop and expand your city, you must carefully monitor and control air pollution levels. The game aims to raise awareness about air pollution in a fun and interactive way.
